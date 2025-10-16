@@ -1,0 +1,7 @@
+Google Form preguntas (pega en Forms):
+
+1) ¿Cuál es tu principal objetivo ahora mismo relacionado con productividad/ingresos/espiritualidad? (respuesta larga)
+2) ¿Qué herramientas o apps usas hoy? (respuesta corta)
+3) ¿Estarías dispuesto a pagar por una guía paso a paso? (Sí/No)
+4) ¿Qué precio considerarías justo para un mini-curso? (Opciones: $5, $15, $49, $99)
+5) ¿Quieres recibir la checklist? (Sí → pide email)
